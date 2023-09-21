@@ -3,12 +3,12 @@ Learning SwiftUI with real-world projects using the 'Hacking with iOS - SwiftUI 
 
 ### Projects
 
-1. **WeSplit** - Learn the basics of SwiftUI with your first project
+1. **WeSplit** - Building a check-splitting app that user might use after eating at a restaurant 
 2. **Guess the Flag** - Build a game with stacks, images, and alerts
 3. **Views and Modifiers** - Dive deep into Swift's rendering system
 4. **BetterRest** - Use machine learning to improve sleep
 5. **Word Scramble** - Build a letter rearranging game with List
-6. **Animation** - Spruce up your UI with springs, bounces etc
+6. **Animation** - Spruce up UI with springs, bounces etc
 7. **iExpense** - Bring in a second view with this expense tracking app
 8. **Moonshot** - Teach users about space history with scroll views, Codable
 9. **Drawing** - Use shapes, paths, colors, and more to create custom art for your app
