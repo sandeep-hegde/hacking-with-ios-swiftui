@@ -8,24 +8,38 @@
 import SwiftUI
 
 
+struct ContentView: View {
+    var body: some View {
+        VStack {
+            CapsuleText(text: "First")
+                .foregroundColor(.white)
+            CapsuleText(text: "Second")
+                .foregroundColor(.orange)
+                .modifier(Title())
+            
+        }
+    }
+}
+
+
 // Custom Modifier
 struct Title: ViewModifier {
     func body(content: Content) -> some View {
         content
             .font(.largeTitle)
-            .foregroundColor(.white)
+            .foregroundStyle(.white)
             .padding()
             .background(.blue)
             .clipShape(RoundedRectangle(cornerRadius: 10))
     }
 }
 
+
 extension View {
     func titleStyle() -> some View {
         modifier(Title())
     }
 }
-
 
 
 // Custom View
@@ -40,22 +54,6 @@ struct CapsuleText: View {
             .clipShape(Capsule())
     }
 }
-
-
-
-struct ContentView: View {
-    var body: some View {
-        VStack {
-            CapsuleText(text: "First")
-                .foregroundColor(.white)
-            CapsuleText(text: "Second")
-                .foregroundColor(.orange)
-                .modifier(Title())
-            
-        }
-    }
-}
-
 
 
 struct ContentView_Previews: PreviewProvider {
