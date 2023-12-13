@@ -12,19 +12,19 @@ Here's a quick tour of what I've been up to in the course:
 - **Word Scramble**: Build a game to rearrange letters, leveraging the power of Lists.
 - **Animation**: Adding visual flair to UI with springs, bounces, and other animations.
 - **iExpense**: Build a second view for this app to track personal expenses.
-- **Bookworm**: Utilized SwiftData for an app that helps track your favorite books.
+- **Bookworm**: Utilize SwiftData for an app that helps track your favorite books.
 - **SwiftData**: In-depth tour of how SwiftUI and SwiftData work together.
-- **Accessibility**: Focused on making apps accessible to a broader audience.
-- **Hot Prospects**: Crafted a conference app with tabs and context menus.
-- **Layout and Geometry**: Explored the nuances of SwiftUI's layout system.
-- **Drawing**: Used shapes, paths, colors, and more to create custom art for your app
+- **Accessibility**: Focus on making apps accessible to a broader audience.
+- **Hot Prospects**: Craft a conference app with tabs and context menus.
+- **Layout and Geometry**: Explore the nuances of SwiftUI's layout system.
+- **Drawing**: Use shapes, paths, colors, and more to create custom art for your app
 - **Core Data**: Take an in-depth tour of how SwiftUI and Core Data work together
 
 Each project here is a step in my journey to mastering SwiftUI, combining theory with practical, real-world applications. Feel free to explore and share in the learning experience!
 
 **Note**: 
-- The goal of undertaking this project is to gain a comprehensive understanding and practical experience in iOS development via SwiftUI by working on my personal project. Consequently, the list provided may not encompass every project discussed in the course. For any projects not mentioned here, please refer to the course link. Thank you!
-- "The projects titled 'Views and Modifiers,' 'Animation,' 'Layout and Geometry,' and 'Drawing' focus solely on conceptual learning; therefore, there will be no screenshots provided for these topics."
+- The goal of undertaking this project is to gain a comprehensive understanding and practical experience in iOS development via SwiftUI by working on my personal project. Consequently, the list provided may not encompass every project discussed in the course. For any projects not mentioned here, **please refer to the course link**. Thank you!
+- The projects titled **Views and Modifiers**, **Animation**, **Layout and Geometry**, and **Drawing** focus solely on conceptual learning; therefore, there will be no screenshots provided for these topics.
 
 --- 
 
@@ -54,6 +54,15 @@ Each project here is a step in my journey to mastering SwiftUI, combining theory
 
 ---
 
-### iExpense
-<img width="363" alt="Screenshot 2023-12-13 at 10 44 22 AM" src="https://github.com/sandeep-hegde/hacking-with-ios-swiftui/assets/24915457/9168c11e-df1e-42f7-87b1-f4af1bb7657c">
+<table>
+  <tr>
+    <th>iExpense</th>
+     <th>Bookworm</th>
+  </tr>
+  <tr>
+    <td><img width="363" alt="Screenshot 2023-12-13 at 10 44 22 AM" src="https://github.com/sandeep-hegde/hacking-with-ios-swiftui/assets/24915457/9168c11e-df1e-42f7-87b1-f4af1bb7657c"></td>
+    <td><img width="363" alt="Screenshot 2023-12-13 at 10 43 32 AM" src="https://github.com/sandeep-hegde/hacking-with-ios-swiftui/assets/24915457/1d851353-fa8b-4458-91df-007bf9787686"></td>
+  </tr>
+ </table>
 
+---
