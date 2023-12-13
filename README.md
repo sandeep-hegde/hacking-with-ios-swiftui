@@ -5,31 +5,26 @@ Diving into SwiftUI with hands-on projects from the [Hacking with iOS - SwiftUI 
 
 Here's a quick tour of what I've been up to in the course:
 
-1. **WeSplit**: Developed a check-splitting app for those post-dinner calculations.
-2. **Guess the Flag**: Created a fun flag-guessing game using stacks, images, and alerts.
-3. **Views and Modifiers**: Went in-depth into Swift's rendering system and how it shapes UI.
-4. **BetterRest**: Integrated machine learning to craft an app that helps improve sleep.
-5. **Word Scramble**: Built a game to rearrange letters, leveraging the power of Lists.
-6. **Animation**: Added visual flair to UI with springs, bounces, and other animations.
-7. **iExpense**: Designed a second view for this app to track personal expenses.
-8. **Moonshot**: Educated users about space history using scroll views and Codable.
-9. **Navigation**: Directing users around your app, either programmatically or using explicit input
-10. **Cupcake Corner**: Developed an app to handle JSON data exchange over the internet.
-11. **Bookworm**: Utilized Core Data for an app that helps track your favorite books.
-12. **Core Data**: Delved deeply into the synergy between SwiftUI and Core Data.
-13. **Instafilter**: Blended SwiftUI, UIKit, and Core Image in a single application.
-14. **Bucket List**: Embedded maps and network calls in this life goals-oriented app.
-15. **Accessibility**: Focused on making apps accessible to a broader audience.
-16. **Hot Prospects**: Crafted a conference app with tabs and context menus.
-17. **Flashzilla**: Used gestures and haptics to create an interactive learning app.
-18. **Layout and Geometry**: Explored the nuances of SwiftUI's layout system.
-19. **SnowSeeker**: Built an app for ski resorts that works great on iPad.
-20. **Drawing**: Used shapes, paths, colors, and more to create custom art for your app
-21. **Core Data**: Take an in-depth tour of how SwiftUI and Core Data work together
+- **WeSplit**: Developed a check-splitting app for those post-dinner calculations.
+- **Guess the Flag**: Build a game with stacks, images, and alerts.
+- **Views and Modifiers**: Dive deep into Swift's rendering system.
+- **BetterRest**: Integrate machine learning to craft an app that helps improve sleep.
+- **Word Scramble**: Build a game to rearrange letters, leveraging the power of Lists.
+- **Animation**: Adding visual flair to UI with springs, bounces, and other animations.
+- **iExpense**: Build a second view for this app to track personal expenses.
+- **Bookworm**: Utilized SwiftData for an app that helps track your favorite books.
+- **SwiftData**: In-depth tour of how SwiftUI and SwiftData work together.
+- **Accessibility**: Focused on making apps accessible to a broader audience.
+- **Hot Prospects**: Crafted a conference app with tabs and context menus.
+- **Layout and Geometry**: Explored the nuances of SwiftUI's layout system.
+- **Drawing**: Used shapes, paths, colors, and more to create custom art for your app
+- **Core Data**: Take an in-depth tour of how SwiftUI and Core Data work together
 
 Each project here is a step in my journey to mastering SwiftUI, combining theory with practical, real-world applications. Feel free to explore and share in the learning experience!
 
-**Note**: Please note that the projects **Views and Modifiers**, **Animation**, **Layout and Geometry**, and **Drawing** are only about concepts so there wont be any screenshoots for it. 
+**Note**: 
+- The goal of undertaking this project is to gain a comprehensive understanding and practical experience in iOS development via SwiftUI by working on my personal project. Consequently, the list provided may not encompass every project discussed in the course. For any projects not mentioned here, please refer to the course link. Thank you!
+- "The projects titled 'Views and Modifiers,' 'Animation,' 'Layout and Geometry,' and 'Drawing' focus solely on conceptual learning; therefore, there will be no screenshots provided for these topics."
 
 --- 
 
