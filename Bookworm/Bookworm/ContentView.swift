@@ -17,23 +17,28 @@ struct ContentView: View {
     
     var body: some View {
         NavigationStack {
-            List(books) { book in
-                NavigationLink(value: book) {
-                    HStack {
-                        EmojiRatingView(rating: book.rating)
-                            .font(.largeTitle)
-                        
-                        VStack(alignment: .leading) {
-                            Text(book.title)
-                                .font(.headline)
+            List {
+                ForEach(books) { book in
+                    NavigationLink(value: book) {
+                        HStack {
+                            EmojiRatingView(rating: book.rating)
+                                .font(.largeTitle)
                             
-                            Text(book.author)
-                                .foregroundStyle(.secondary)
+                            VStack(alignment: .leading) {
+                                Text(book.title)
+                                    .font(.headline)
+                                
+                                Text(book.author)
+                                    .foregroundStyle(.secondary)
+                            }
                         }
                     }
                 }
             }
             .navigationTitle("Bookwarm")
+            .navigationDestination(for: Book.self) { book in
+                DetailView(book: book)
+            }
             .toolbar {
                 ToolbarItem(placement: .topBarTrailing) {
                     Button("Add Book", systemImage: "plus") {
