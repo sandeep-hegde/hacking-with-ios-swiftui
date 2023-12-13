@@ -13,6 +13,7 @@
 		2CF213632B298F290001EF7A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CF213622B298F290001EF7A /* Preview Assets.xcassets */; };
 		2CF213862B299CAD0001EF7A /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF213852B299CAD0001EF7A /* Book.swift */; };
 		2CF213882B299D560001EF7A /* AddBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF213872B299D560001EF7A /* AddBookView.swift */; };
+		2CF2138A2B29A3FA0001EF7A /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF213892B29A3FA0001EF7A /* RatingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		2CF213622B298F290001EF7A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2CF213852B299CAD0001EF7A /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 		2CF213872B299D560001EF7A /* AddBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBookView.swift; sourceTree = "<group>"; };
+		2CF213892B29A3FA0001EF7A /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				2CF2135B2B298F280001EF7A /* BookwormApp.swift */,
 				2CF2135D2B298F280001EF7A /* ContentView.swift */,
 				2CF213872B299D560001EF7A /* AddBookView.swift */,
+				2CF213892B29A3FA0001EF7A /* RatingView.swift */,
 				2CF213852B299CAD0001EF7A /* Book.swift */,
 				2CF2135F2B298F290001EF7A /* Assets.xcassets */,
 				2CF213612B298F290001EF7A /* Preview Content */,
@@ -146,6 +149,7 @@
 				2CF2135E2B298F280001EF7A /* ContentView.swift in Sources */,
 				2CF2135C2B298F280001EF7A /* BookwormApp.swift in Sources */,
 				2CF213862B299CAD0001EF7A /* Book.swift in Sources */,
+				2CF2138A2B29A3FA0001EF7A /* RatingView.swift in Sources */,
 				2CF213882B299D560001EF7A /* AddBookView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
